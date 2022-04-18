@@ -1,4 +1,4 @@
-# In this R Project, we want to construct machine learning models to predict the price of houses in California based on different predictors such as houses’ locations, number of rooms, and the number of people residing in a block using a dataset that was collected in 1990. To do so, download the dataset “housing.csv”. Notice that this dataset contains the price of houses in 1990. Since the housing prices have increased dramatically since then, we cannot generalize our model to predict the the current price of houses in California.
+# R Project: Build Machine Learning Model using R Studio to predict house prices in California.
 
 In this R Project, we want to construct machine learning models to predict the price of houses in California based on different predictors such as houses’ locations, number of rooms, and the number of people residing in a block using a dataset that was collected in 1990. To do so, download the dataset “housing.csv”. Notice that this dataset contains the price of houses in 1990. Since the housing prices have increased dramatically since then, we cannot generalize our model to predict the the current price of houses in California.
 
